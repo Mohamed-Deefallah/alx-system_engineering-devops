@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-alx-system_engineering-devops
+#!/bin/bash
+welcome to my first class
